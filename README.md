@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in NC
 * 🎓  Studying Software Engineering 
 * 🌱  I’m currently learning Front End
-* ⚡  I'm a bookworm 🤓📚
+* ⚡  A bookworm 🤓📚
 
  ### Skills
  -------------
