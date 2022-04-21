@@ -4,7 +4,7 @@ Hi 👋 My name is Stella G
 Web Developer
 -------------
 
-* 🌍  I'm based in US
+* 🌍  I'm based in NC
 * 🎓  Studying Software Engineering 
 * 🌱  I’m currently learning Front End
 * ⚡  I'm a bookworm 🤓📚
