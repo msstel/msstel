@@ -5,7 +5,8 @@ Web Developer
 -------------
 
 * 🌍  I'm based in US
-* 🧠  I'm learning React
+* 🎓  Studying Software Engineering 
+* 🌱  I’m currently learning Front End
 * ⚡  I'm a bookworm 🤓📚
 
 ### Skills
