@@ -1,4 +1,4 @@
-Hi 👋 My name is Stella G
+Hi 👋🏼
 =========================
 
 Web Developer
