@@ -4,8 +4,6 @@ Hi 👋 My name is Stella G
 Web Developer
 -------------
 
-A newbie to the world of coding. I'll be uploading some of the projects from my web development course.
-
 * 🌍  I'm based in US
 * 🧠  I'm learning React
 * ⚡  I'm a bookworm 🤓📚
