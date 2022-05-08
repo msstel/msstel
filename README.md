@@ -4,7 +4,7 @@ Hi 👋🏼
 Web Developer
 -------------
 
-* 🌍  I'm based in NC
+* 🌍  I'm based in US
 * 🎓  Studying Software Engineering 
 * 🌱  I’m currently learning Front End
 * ⚡  A bookworm 🤓📚
