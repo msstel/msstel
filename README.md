@@ -5,8 +5,8 @@ Web Developer
 -------------
 
 * 🌍  I'm based in US
-* 🎓  Studying Software Engineering 
-* 🌱  I’m currently learning Front End
+* 🎓  Software Developer
+* 🌱  Self Growth
 * ⚡  A bookworm 🤓📚
 
  ### Skills
