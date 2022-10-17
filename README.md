@@ -26,9 +26,6 @@ Web Developer
 ### Socials
 -------------
 
-<p align="left"> <a href="https://www.github.com/msstel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sstel00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/msstel"><img src="https://github-readme-stats.vercel.app/api?username=msstel&show_icons=true&hide=stars,prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="msstel's GitHub stats" /></a>
