@@ -23,7 +23,6 @@ Web Developer
 
 </p>
 
-### Socials
 -------------
 
 <b>My GitHub Stats</b>
