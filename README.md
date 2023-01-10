@@ -1,11 +1,10 @@
 Hi 👋🏼
 =========================
 
-Web Developer
--------------
+🎓 Software Developer
+---------------------
 
 * 🌍  I'm based in US
-* 🎓  Software Developer
 * 🌱  Self Growth
 * ⚡  A bookworm 🤓📚
 
